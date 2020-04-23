@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Josefin Sans Light'), local('JosefinSans-Light'), url(../fonts/Qw3FZQNVED7rKGKxtqIqX5Ecpl5te10k.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Josefin Sans Regular'), local('JosefinSans-Regular'), url(../fonts/Qw3aZQNVED7rKGKxtqIqX5EUDXx9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Josefin Sans SemiBold'), local('JosefinSans-SemiBold'), url(../fonts/Qw3FZQNVED7rKGKxtqIqX5Ec0lhte10k.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url(../fonts/Qw3FZQNVED7rKGKxtqIqX5Ectllte10k.ttf) format('truetype');
+}
